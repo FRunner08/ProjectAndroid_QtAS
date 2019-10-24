@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exam_Project</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">This is the homescreen.</string>
+    <string name="list">This is the listview.</string>
+    <string name="formular">This is a formular.</string>
+    <string name="maps">This shows the map.</string>
+    <string name="buttonPic">load a picture</string>
+    <string name="buttonSave">save</string>
+    <string name="addButtonList">add item</string>
+    <string name="deleteButtonList">delete item</string>
+    <string name="deleteAllButtonList">delete all items</string>
+    <string name="eingabeformular">Eingabeformular</string>
+    <string name="main_textviewtext">Dies ist der Homescreen. Von hier kommt man überall hin. Dieser Bildschirm lässt sich noch gestalten.</string>
+</resources>
